@@ -1,5 +1,10 @@
 import time
 
+"""
+Program 3:Write a Stopwatch Program for measuring the time that elapses between
+the start and end clicks
+"""
+
 def time_convert(sec):
     mins = sec // 60
     sec = sec % 60
